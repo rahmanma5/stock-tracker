@@ -72,7 +72,7 @@ class Stock extends React.Component {
     render() {
       return (
         <div>
-            Hello
+            Testerino
             Max: {this.state.max}
             Min: {this.state.min}
             Avg: {this.state.avg}
